@@ -48,9 +48,7 @@ public class DetailFragment extends Fragment implements LoaderManager.LoaderCall
     private static final String LOG_TAG = DetailFragment.class.getSimpleName();
     static final String DETAIL_URI = "URI";
     static final String DETAIL_TRANSITION_ANIMATION = "DTA";
-
     private static final String FORECAST_SHARE_HASHTAG = " #SunshineApp";
-
     private String mForecast;
     private Uri mUri;
     private boolean mTransitionAnimation;

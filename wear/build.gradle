@@ -6,7 +6,7 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        applicationId "com.wear.bhupendra.sunshine"
+        applicationId "com.bhupendra.android.sunshine.app"
         minSdkVersion 21
         targetSdkVersion 24
         versionCode 1
